@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, Python and Flutter**
 
-- 📝 I regularly write articles on [https://brandonkruger.tech/](https://brandonkruger.tech/)
+- 📝 I regularly write articles on [https://brandonkruger.com/](https://brandonkruger.com/)
 
 - 📫 How to reach me **216049245@mycput.ac.za**
 
