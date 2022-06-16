@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/brandonkrugerza" target="blank"><img src="https://img.shields.io/twitter/follow/brandonkrugerza?logo=twitter&style=for-the-badge" alt="brandonkrugerza" /></a> </p>
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=216049245)](https://github.com/216049245/github-readme-stats)
+
 - 🌱 I’m currently learning **Java, Python and Flutter**
 
 - 📝 I regularly write articles on [https://brandonkruger.com/](https://brandonkruger.com/)
