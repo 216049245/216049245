@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
-<h3 align="center">Always tinkering...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=216049245&label=Profile%20views&color=0e75b6&style=flat" alt="216049245" /> </p>
 
